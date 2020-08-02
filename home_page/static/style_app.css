@@ -1,0 +1,62 @@
+* {
+  font-family: 'Anonymous Pro', monospace;
+}
+
+.error {
+  color: red;
+}
+
+input,
+button,
+option,
+select {
+  color: black;
+}
+
+.form {
+  width: 284px;
+  height: 350px;
+  display: inline-block;
+  color: black;
+  text-align: left;
+  padding: 0 20px;
+  vertical-align: top;
+  margin-right: 125px;
+}
+
+.main {
+  margin-left: 70%;
+  border-width: 1px;
+  border-color: black;
+}
+
+.login {
+  margin-left: 79%;
+  border-width: 1px;
+  border-color: black;
+}
+
+label {
+  width: 100px;
+  display: inline-block;
+}
+
+h2,
+.buttons {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.buttons {
+  right: 1px;
+  position: absolute;
+  top: 10px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+h3 {
+  color: #50A82E;
+}
